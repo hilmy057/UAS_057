@@ -1,0 +1,7 @@
+C:\Users\HP Pavillion\source\repos\UAS_057\UAS_057\bin\Debug\UAS_057.exe.config
+C:\Users\HP Pavillion\source\repos\UAS_057\UAS_057\bin\Debug\UAS_057.exe
+C:\Users\HP Pavillion\source\repos\UAS_057\UAS_057\bin\Debug\UAS_057.pdb
+C:\Users\HP Pavillion\source\repos\UAS_057\UAS_057\obj\Debug\UAS_057.csproj.AssemblyReference.cache
+C:\Users\HP Pavillion\source\repos\UAS_057\UAS_057\obj\Debug\UAS_057.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavillion\source\repos\UAS_057\UAS_057\obj\Debug\UAS_057.exe
+C:\Users\HP Pavillion\source\repos\UAS_057\UAS_057\obj\Debug\UAS_057.pdb
